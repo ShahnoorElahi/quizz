@@ -1,0 +1,104 @@
+body{
+    background: linear-gradient(to right,rgb(70,197,214),rgb(1,69,100));
+}
+.d1{
+    margin-top: 300px;
+    margin-left: 570px;
+    box-shadow: 0px 3px rgb(10,198,204);
+    width: 13%;
+}
+.d2{
+    margin-top: 50px;
+    margin-left: 275px;
+    background-color: white;
+    height: 550px;
+    width: 800px;
+}
+.d3{
+    display: flex;
+}
+.d4{
+    box-shadow: 0px 3px lightgray;
+    height: 70px;
+    width: 80%;
+}
+.d5{
+    box-shadow: 0px 3px lightgray;
+    background-color: rgb(10,198,204);
+    height: 70px;
+    width: 20%;
+}
+.d7{
+    height: 40px;
+    width: 80%;
+    box-shadow: 0px 2px rgb(10,198,204);
+    border-radius: 10px;
+    margin-left: 50px;
+    padding-top: 10px;
+    border: 2px solid rgb(145, 142, 142);;
+}
+.d8{
+    color: aliceblue;
+    margin-top: 300px;
+    text-align: center;
+    margin-left: 570px;
+    box-shadow: 0px 3px rgb(10,198,204);
+    width: 13%;
+}
+.d9{
+    color: aliceblue;
+    text-align: center;
+    margin-left: 570px;
+    box-shadow: 0px 3px rgb(10,198,204);
+    width: 13%;
+}
+input{
+    color: white;
+    border-color: transparent;
+    outline: 0;
+    text-align: center;
+    background: linear-gradient(to right,rgb(40,142,165),rgb(32,127,152));
+} 
+::placeholder{
+    color: white;
+}
+.button1 {
+    border-radius: 20px;
+    margin-top: 10px;
+    margin-left: 570px;
+    width: 178px;
+    color: white;
+    border-color: transparent;
+    background: linear-gradient(to right,rgb(10,198,204),rgb(32,127,152));
+}
+#button2 {
+    border-radius: 20px;
+    margin-top: 10px;
+    margin-left: 570px;
+    width: 178px;
+    height: 30px;
+    color: rgb(10,198,204);
+    border-color: rgb(10,198,204) ;
+    background-color: white;
+}
+.p1{
+    margin-left: 330px;
+    color: rgb(145, 142, 142);
+}
+h1{
+    padding-left: 50px;
+}
+#h2{
+    padding-left: 50px;
+}
+.p2{
+    padding-bottom: 2px;
+} 
+.p3{
+    margin-left: 20px;
+    margin-top: 8px;
+}
+.p4{
+    margin-left: 65px;
+    margin-top:25px;
+}
